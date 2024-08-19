@@ -11,6 +11,7 @@ public class ProjectOverview {
 		System.out.println("28 to 38 Hashset,");
 		System.out.println("38 to 50 tree set,sorting order");
 		System.out.println("basic program including methods 50 to 60");
+		System.out.println("pattrn 76 to 86");
 
 	}
 
